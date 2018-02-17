@@ -22,4 +22,4 @@ The platform has been created specifically to be easy to understand, modify and 
 * Add data - python seed.py (based on your data)
 * Run app - python application.py
 
-### Citations required for any usage of this platform.
+### Citations necessary (MIT License) for usage of this platform.
