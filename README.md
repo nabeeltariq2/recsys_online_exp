@@ -22,4 +22,9 @@ The platform has been created specifically to be easy to understand, modify and 
 * Add data - python seed.py (based on your data)
 * Run app - python application.py
 
-### Citations necessary (MIT License) for usage of this platform.
+### MIT License
+
+Citations
+Ups and downs: Modeling the visual evolution of fashion trends with one-class collaborative filtering
+R. He, J. McAuley
+WWW, 2016
