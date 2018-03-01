@@ -25,6 +25,7 @@ The platform has been created specifically to be easy to understand, modify and 
 ### MIT License
 
 Citations
+
 Ups and downs: Modeling the visual evolution of fashion trends with one-class collaborative filtering
 R. He, J. McAuley
 WWW, 2016
